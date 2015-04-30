@@ -1,0 +1,5 @@
+<h1>Autores de <%= title %></h1>
+<p><br>Pedro José Sáiz Coronado y Unai Rosa Benlahcen<br><br>
+<img src="../public/images/MiFoto.jpg" alt="Imagen no apta para su navegador">
+<img src="../public/images/f1.png" alt="Imagen no apta para su navegador"><br><br>
+
